@@ -1,0 +1,58 @@
+.div {
+  background-color: rgba(203, 213, 202, 0.249);
+  margin: 5px;
+  color: darkblue;
+  text-align: center;
+  display: flex;
+}
+.button {
+  float: right;
+  padding-left: 0px;
+  margin-left: 5px;
+}
+.formDis {
+  display: flex
+}
+.id {
+  padding-right: 5px;
+  float: left;
+}
+.title {
+  font-weight: bold;
+  padding-right: 10px;
+  float: left;
+}
+
+.size {
+  font-style: italic;
+  padding-right: 5px;
+}
+.price {
+  color: darkmagenta;
+  font-weight: bolder;
+  text-align: right;
+  padding-right: 20px;
+  margin-right: 10px;
+  float: right;
+}
+.input {
+  color: rgb(255, 0, 0);
+  font-weight: bolder;
+  text-align: right;
+  padding-right: 20px;
+  margin-right: 10px;
+  float: right;
+}
+.input input {
+  width: 40px;
+  vertical-align: middle;
+}
+.inc {
+  border: 1px solid black;
+  width: 30px;
+  font-weight: bolder;
+  border-radius: 10px;
+  text-align: center;
+  vertical-align:top;
+  display: inline-block;
+}

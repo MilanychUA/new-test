@@ -1,0 +1,13 @@
+.table {
+    width: 100%;
+    text-align: center;
+}
+
+.headerTr {
+    color: blue;
+    font-weight: bold;
+}
+
+.tr {
+    color: black;
+}

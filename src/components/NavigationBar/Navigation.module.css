@@ -1,0 +1,10 @@
+.div{
+    background-color: aquamarine;
+    border:2px solid yellowgreen;
+    border-radius: 30px;
+    width: 100%;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding: auto;
+    text-align: center;
+}
