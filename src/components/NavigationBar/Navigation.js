@@ -25,7 +25,7 @@ const NavigationBar = ({ isAnimationShown }) => {
     }
   }
 
-
+  // state D
 
   return (
     <div className={classes.div}>
