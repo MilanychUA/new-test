@@ -11,5 +11,5 @@ const Main = (props) => {
     </div>
   );
 };
-
+console.log('223')
 export default Main;
