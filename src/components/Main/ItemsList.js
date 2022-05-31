@@ -31,6 +31,7 @@ const ItemsList = (props) => {
   const incAmount = () => { // Increase Amount by clicking on div "+"
     setInputAmount(+ref.current.value + 1);
   };
+  console.log('Change number 2, forgot to add in previous commit')
   return (
     <div className={classes.div}>
       <form onSubmit={addSubmit} className={classes.formDis}>
